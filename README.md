@@ -1,1 +1,1 @@
-./README.md
+./packages/zeego/README.md
