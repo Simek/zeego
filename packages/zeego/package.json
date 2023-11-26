@@ -24,7 +24,8 @@
     "!examples",
     "index.d.ts",
     "context-menu",
-    "dropdown-menu"
+    "dropdown-menu",
+    "README.md"
   ],
   "scripts": {
     "test": "jest",
